@@ -14,5 +14,5 @@
 
 ##### Root Google Drive: https://drive.google.com/drive/u/0/folders/1GtVtdLpKi0RDzFGGBKQak6tnbJk2fp1D
 
-##### The following link contains the processed Input data: https://drive.google.com/drive/u/0/folders/1D1kQBpmnS4r2Dhq7f8bkhWXC_WF8gIkD
+##### The following link contains the processed Input data in netCDF format and Region of Interest file in .csv: https://drive.google.com/drive/u/0/folders/1D1kQBpmnS4r2Dhq7f8bkhWXC_WF8gIkD
 
