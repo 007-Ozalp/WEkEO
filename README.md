@@ -1,4 +1,4 @@
-## WEkEO
+## WEkEO Jupyter Notebook Competition
 
 
 #### Introduction to Notebooks:
