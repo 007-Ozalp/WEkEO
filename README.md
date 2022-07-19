@@ -9,7 +9,8 @@
 ##### WEkEO Part 3: Describe Map Visualisations and Analysis
 ##### The method is as follows:
 
-![cmems_sst_workflow](https://user-images.githubusercontent.com/80483194/179719622-dbb9feb5-d5fa-44ca-a893-fdfc6be6f78b.png)
+![cmems_sst_workflow](https://user-images.githubusercontent.com/80483194/179728778-1247c443-335d-4305-811c-86711fe17e04.png)
+
 
 
 ##### Google Drive: https://drive.google.com/drive/u/0/folders/1GtVtdLpKi0RDzFGGBKQak6tnbJk2fp1D
