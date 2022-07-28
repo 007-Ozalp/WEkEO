@@ -7,7 +7,7 @@ The Sea Surface Temperature (SST) is an important physical characteristic of the
 #### Accordingly, the input “CMEMS_SST” in the netCDF format is prepared to display Seasonal and Annual Maps together with Trends. The Spatial data for the Area of Interest is called “areaAdriatic” in the CSV format. 
 The Input Data “CMEMS_SST.nc” and “areaAdriatic.csv” are present in the following link: https://drive.google.com/drive/u/0/folders/1D1kQBpmnS4r2Dhq7f8bkhWXC_WF8gIkD 
 The Sections of the Notebooks:
-1)	[WEkEO_Part_1](https://github.com/007-Ozalp/WEkEO/tree/main/WEkEO_PART_1_Aggregations): Functions of the Data Aggregation for the Winter, Summer Period selection and Annual Mean Map.
+1)	[WEkEO_Part_1](https://github.com/007-Ozalp/WEkEO/tree/main/WEkEO_PART_1_Aggregations): Functions of the Data Aggregation for the Winter, Summer Period selection and Annual Mean MapS.
 2)	WEkEO_Part_2: Map and plot visualizations of aggregated data with functions. 
 
 
