@@ -10,6 +10,6 @@ The Input Data “CMEMS_SST.nc” and “areaAdriatic.csv” are present in the 
 
 The Sections of the Notebooks:
 1)	[WEkEO_Part_1](https://github.com/007-Ozalp/WEkEO/tree/main/WEkEO_PART_1_Aggregations): Functions of the Data Aggregation for the Winter, Summer Period selection and Annual Mean MapS.
-2)	WEkEO_Part_2: Map and plot visualizations of aggregated data with functions. 
+2)	[WEkEO_Part_2](https://github.com/007-Ozalp/WEkEO/tree/main/WEkEO_Notebook_PART_2): Map and plot visualizations of aggregated data with functions. 
 
 
