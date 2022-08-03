@@ -7,7 +7,7 @@ import netCDF4
     
 def faClipDataOnRegion(inputNcFileSpec, areaPerimeter, outputNcFileSpec):
     
-    """ CLIP INPUT OVER INTERESTED AREA---> csv Perimeter Areas  have Column Names: LAT & LON 
+    """ CLIP INPUT OVER INTERESTED AREA: "The Adriatic Sea" ---> csv Perimeter Areas  have Column Names: LAT & LON 
         areaPerimeter: pandas dataset delimiting the area being analysed. In the dataset, the 1st column is longitude, 
         the 2nd column is latitude dataOutputNcFpath: path of the output nc file.
     """
