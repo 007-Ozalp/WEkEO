@@ -1,4 +1,4 @@
-## Introduction to WEkEO Notebooks
+## Introduction to WEkEO Notebook
 
 
 #### CMEMS Reanalysis: Seasonal and Annual Trends of the Sea Surface Temperature in the Adriatic Sea.
