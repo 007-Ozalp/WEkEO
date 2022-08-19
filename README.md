@@ -9,7 +9,15 @@ The Input Data “CMEMS_SST.nc” and “areaAdriatic.csv” are present in the 
 
 
 The Sections of the Notebooks:
-1)	[WEkEO_Part_1](https://github.com/007-Ozalp/WEkEO/tree/main/WEkEO_PART_1_Aggregations): [Functions](https://github.com/007-Ozalp/WEkEO/blob/main/WEkEO_PART_1_Aggregations/FunctionAggregates.py) of the Data Aggregation for [the Winter, Summer Period selection and Annual Mean MapS](https://github.com/007-Ozalp/WEkEO/blob/main/WEkEO_PART_1_Aggregations/WEkEO_Notebook_PART_1_FunctionAggregates.ipynb).
-2)	[WEkEO_Part_2](https://github.com/007-Ozalp/WEkEO/tree/main/WEkEO_Notebook_PART_2): [Map](https://github.com/007-Ozalp/WEkEO/blob/main/WEkEO_Notebook_PART_2/WEkEO_Notebook_PART_2_Step_2_Map_Visualizations.ipynb) and [plot visualizations](https://github.com/007-Ozalp/WEkEO/blob/main/WEkEO_Notebook_PART_2/WEkEO_Notebook_PART_2_Step_1_Data_Analysis.ipynb) of aggregated data with [functions](https://github.com/007-Ozalp/WEkEO/blob/main/WEkEO_Notebook_PART_2/FunctionAggregatesPlots.py). 
+ 1. [Section 1](#section1): Data processing: CMEMS Data.
+ 
+#### The CODE SECTION includes:
+
+
+ 2. [Section 2](#section2): Functions for the Data Aggregation process: Annual, Winter and Summer Seasons Aggregations.
+ 3. [Section 3](#section3): The SST Data Analysis and Plots: Daily, Monthly, Annual Trends and Standard Deviation.
+ 4. [Section 4](#section4): The Seasonal and Annual Mean Map Visualizations.
+ 5. [Section 5](#section5): The Seasonal Anomalies Map Visualizations.
+ 6. [Section 6](#section6): References.
 
 
