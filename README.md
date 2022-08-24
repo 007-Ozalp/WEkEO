@@ -9,15 +9,15 @@ The Input Data “CMEMS_SST.nc” in netCDF format is prepared for the data aggr
 
 The Sections of the Notebooks:
 
-Section 1: Data Preparation: CMEMS Data.
+1. Section 1: Data Preparation: CMEMS Data.
 
 ### The CODE SECTION includes:
 
-Section 2: Functions for the Data Aggregation process: Annual, Winter and Summer Seasons Aggregations.
-Section 3: The SST Data Analysis and Plots: Daily, Monthly, Annual Trends and Standard Deviation.
-Section 4: The Seasonal and Annual Mean Map Visualizations.
-Section 5: The Seasonal Anomalies Map Visualizations.
-Section 6: References.
-Section 7: Challenge.
+2. Section 2: Functions for the Data Aggregation process: Annual, Winter and Summer Seasons Aggregations.
+3. Section 3: The SST Data Analysis and Plots: Daily, Monthly, Annual Trends and Standard Deviation.
+4. Section 4: The Seasonal and Annual Mean Map Visualizations.
+5. Section 5: The Seasonal Anomalies Map Visualizations.
+6. Section 6: References.
+7.Section 7: Challenge.
 
 
