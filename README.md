@@ -18,6 +18,6 @@ The Sections of the Notebooks:
 4. Section 4: The Seasonal and Annual Mean Map Visualizations.
 5. Section 5: The Seasonal Anomalies Map Visualizations.
 6. Section 6: References.
-7.Section 7: Challenge.
+7. Section 7: Challenge.
 
 
