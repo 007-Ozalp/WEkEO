@@ -8,15 +8,16 @@ The Sea Surface Temperature (SST) is an important physical characteristic of the
 The Input Data “CMEMS_SST.nc” in netCDF format is prepared for the data aggregation process and the spatial data “areaAdriatic.csv” are present in the following [link](https://drive.google.com/drive/u/0/folders/1jCg1lN5q-yUqYnkwBi7DybhzDQ6-J34p).
 
 The Sections of the Notebooks:
- 1. [Section 1](#section1): Data processing: CMEMS Data.
- 
-#### The CODE SECTION includes:
 
+Section 1: Data Preparation: CMEMS Data.
 
- 2. [Section 2](#section2): Functions for the Data Aggregation process: Annual, Winter and Summer Seasons Aggregations.
- 3. [Section 3](#section3): The SST Data Analysis and Plots: Daily, Monthly, Annual Trends and Standard Deviation.
- 4. [Section 4](#section4): The Seasonal and Annual Mean Map Visualizations.
- 5. [Section 5](#section5): The Seasonal Anomalies Map Visualizations.
- 6. [Section 6](#section6): References.
+### The CODE SECTION includes:
+
+Section 2: Functions for the Data Aggregation process: Annual, Winter and Summer Seasons Aggregations.
+Section 3: The SST Data Analysis and Plots: Daily, Monthly, Annual Trends and Standard Deviation.
+Section 4: The Seasonal and Annual Mean Map Visualizations.
+Section 5: The Seasonal Anomalies Map Visualizations.
+Section 6: References.
+Section 7: Challenge.
 
 
